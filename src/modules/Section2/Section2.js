@@ -4,7 +4,7 @@ import './Section.css';
 
 const Section2 = () => {
     return (
-        <div style={{ margin: 30, display: "flex", flexDirection: "column", alignItems: "center", gap: "30px" }}>
+        <div className="sec2" style={{ margin: 30, display: "flex", flexDirection: "column", alignItems: "center", gap: "30px" }}>
             <div style={{ fontSize: 30 }}>
                 <b>Earn 1% assured cashback</b> on your spends. Get <b>5X more value than cashback</b> at the Uni Store. Enjoy round the clock <b>Whatsapp support.</b> And it's <b>lifetime free</b>; no joining fee, no annual charges.
             </div>

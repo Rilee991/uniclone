@@ -48,4 +48,8 @@
         flex-direction: column-reverse;
         align-items: center;
     }
+
+    .sec2 {
+        margin-top: 100px;
+    }
 }
