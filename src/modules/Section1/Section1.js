@@ -5,7 +5,7 @@ import './Section.css';
 const Section1 = () => {
     return (
         <div style={{ position: "relative" }}>
-            <video style={{ position: "relative", zIndex: 0, objectFit: "cover" }} autoplay muted loop>
+            <video style={{ position: "relative", zIndex: 0, objectFit: "cover", width: "100%" }} autoPlay muted loop>
                 <source src="https://www.uni.cards/videos/nxt_wave_bg.mp4" type="video/mp4"/>
                 <source src="https://www.uni.cards/videos/nxt_wave_bg.ogg" type="video/ogg" />
             </video>
