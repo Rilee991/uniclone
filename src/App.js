@@ -1,15 +1,14 @@
 import './App.css';
 import Section1 from './modules/Section1/Section1';
 import Section2 from './modules/Section2/Section2';
+import Section3 from './modules/Section3/Section3';
 
 function App() {
 	return (
 		<div style={{ display: "flex", flexDirection: "column", width: "100%" }}>
 			<Section1 />
 			<Section2 />
-			<div>
-				Section 3
-			</div>
+			<Section3 />
 			<div>
 				Section 4
 			</div>
