@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uniclone/static/css/main.a9054fea.css",
+    "main.js": "/uniclone/static/js/main.f47a713a.js",
+    "static/js/787.ec96ac06.chunk.js": "/uniclone/static/js/787.ec96ac06.chunk.js",
+    "index.html": "/uniclone/index.html",
+    "main.a9054fea.css.map": "/uniclone/static/css/main.a9054fea.css.map",
+    "main.f47a713a.js.map": "/uniclone/static/js/main.f47a713a.js.map",
+    "787.ec96ac06.chunk.js.map": "/uniclone/static/js/787.ec96ac06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9054fea.css",
+    "static/js/main.f47a713a.js"
+  ]
+}
