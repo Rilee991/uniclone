@@ -1,0 +1,51 @@
+.btn {
+    padding: 10px 20px; 
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    background: black;
+    opacity: 0.6;
+}
+
+.unibtn:hover {
+    color: #7DEDDD;
+    background: black;
+    opacity: 1;
+}
+
+.unibtn svg {
+    display: none;
+}
+
+.apply{
+    background: rgba(253,239,120);
+    opacity: 0.9;
+    color: black;
+}
+
+.inp {
+    padding: 10px 20px; 
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    background: black;
+    opacity: 0.6;
+}
+
+@media only screen and (max-width: 770px) {
+    .unibtn p {
+        display: none;
+    }
+
+    .unibtn svg {
+        display: flex;
+    }
+
+    .bodydiv {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+}
